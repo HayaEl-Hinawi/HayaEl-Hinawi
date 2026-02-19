@@ -1,3 +1,5 @@
+![Cool Animation](https://i.pinimg.com/originals/3c/54/d3/3c54d3a5519eda79991a818b75841889.gif)
+
 I'm Haya El-Hinawi, I am a first year Industrial Engineering students at American Univeristy of Beirut Mediterraneo 
 
 My interests and goals lie in the intersection of nanoscale systems, advanced materials, and engineering solutions that integrate physics, mathematics, and computation
