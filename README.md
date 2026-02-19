@@ -7,5 +7,5 @@ $\color{mediumpurple}{\text{materials, and engineering solutions that integrate 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 [![AUB Mediterraneo](https://img.shields.io/badge/AUB_Mediterraneo-800020?style=for-the-badge&logo=university&logoColor=white)](https://www.aubmed.ac.cy/news/Pages/Press-releases.aspx)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINK_HERE)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_with_Me-9370DB?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haya-hannawi-81964a323/)
+
