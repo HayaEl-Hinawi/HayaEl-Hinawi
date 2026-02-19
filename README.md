@@ -1,4 +1,4 @@
-![Cool Animation](https://i.pinimg.com/originals/3c/54/d3/3c54d3a5519eda79991a818b75841889.gif)
+![Tech Animation](https://i.pinimg.com/originals/45/d4/fc/45d4fcd51fe003c160fc9cf3a119f242.gif)
 
 I'm Haya El-Hinawi, I am a first year Industrial Engineering students at American Univeristy of Beirut Mediterraneo 
 
